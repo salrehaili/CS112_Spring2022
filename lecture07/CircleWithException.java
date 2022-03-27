@@ -1,4 +1,3 @@
-package lecture07;
 
 public class CircleWithException {
 	  /** The radius of the circle */

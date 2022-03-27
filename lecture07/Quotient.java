@@ -1,5 +1,3 @@
-package lecture07;
-
 import java.util.Scanner;
 
 public class Quotient {
@@ -12,6 +10,15 @@ public class Quotient {
 		int number1 = input.nextInt();
 		int number2 = input.nextInt();
 
+		a a1 ;
+		System.out.println(a1;
+
 		System.out.println(number1 + " / " + number2 + " is " + (number1 / number2));
+		
 		}
 	}
+
+
+
+class a{}
+class b extends a{}

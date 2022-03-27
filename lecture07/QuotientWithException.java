@@ -1,5 +1,3 @@
-package lecture07;
-
 import java.util.Scanner;
 
 public class QuotientWithException {
